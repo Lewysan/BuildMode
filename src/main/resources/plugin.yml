@@ -1,0 +1,6 @@
+name: BuildMode
+version: 1.0
+main: me.tyranzx.buildmode.StellarCore
+commands:
+    build:
+        aliases: [builder, builds, constr, arch]
